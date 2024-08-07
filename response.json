@@ -1,13 +1,13 @@
 {
 "data": {
 "wortise_account_id": "",
-"ads_status": "off",
+"ads_status": "true",
 "aa_ads_click": "1",
 "launch_count": "1",
 "start_type": "p,a,b,c,d,e,f",
 "aa_ads_default_native": "false",
 "aa_ads_native_on_off": "false",
-"reward": "true",
+"reward": "false",
 "aa_ads_banner_on_off": "false",
 "aa_is_back_count": "false",
 "ads_type": "google",
