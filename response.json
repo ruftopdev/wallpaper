@@ -1,7 +1,7 @@
 {
 "data": {
 "wortise_account_id": "",
-"ads_status": "true",
+"ads_status": "false",
 "aa_ads_click": "1",
 "launch_count": "1",
 "start_type": "p,a,b,c,d,e,f",
@@ -46,7 +46,7 @@
 "vungle_BannerMREC": "MREC_NON_BIDDING-4205088",
 "vungle_Banner": "BANNER_NON_BIDDING-4570799",
 "vungle_Native": "NATIVE_NON_BIDDING-7989926",
-"is_openAds_show": "true",
+"is_openAds_show": "false",
 "Native1": "false",
 "Native2": "false",
 "Native3": "false",
